@@ -1,10 +1,9 @@
 One more file added for testings
 
-One more time is added modification
-
-<<<<<<< Updated upstream
+One more time is added modific
+Updated upstream
 One more time added comments to check new Branch Testing2
-=======
+
 
 jhghjgjhghjghj
->>>>>>> Stashed changes
+Stashed changes

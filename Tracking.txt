@@ -1,5 +1,3 @@
 One more file added for testings
 
-One more time is added modification
-
 One more time added comments to check new Branch Testing2

@@ -1,3 +1,13 @@
 One more file added for testings
 
+<<<<<<< HEAD
 One more time added comments to check new Branch Testing2
+=======
+One more time is added modific
+Updated upstream
+One more time added comments to check new Branch Testing2
+
+
+jhghjgjhghjghj
+Stashed changes
+>>>>>>> 0025645e2b37f909e95eedd5117c265b375cd4d3

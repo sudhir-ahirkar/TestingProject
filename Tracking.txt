@@ -2,7 +2,7 @@ public class A{
 
 public static void main(String args[]){
 int a=10; b=12; c;
-checkResult(a,b);
+checkResult(a,b,c);
 }
 }
 

@@ -1,40 +1,18 @@
-One more file added for testingsasdfasdfasdf
-asdf
-asdfasdf
-One more time added comments to check new Branch Testing2
-sdfsfdas 111111111223
-asdf
-asdfasdf
-asdfasdfasdfadfsafdsad
+public class A{
+
+public static void main(String args[]){
+int a=10; b=12; c;
+checkResult(a,b);
+}
+}
 
 
-8787999885
+public boolean checkResult(int a, int b){
 
+		if(a==b){
+		return true;
+		}else{
+		return false;
+		}
 
-asdfadfafdafd
-
-asdfasdf
-
-afafafa
-=======
-jhghjgjhgjhgjhgjhgjhghjghjg
-asdf
-asdfaasd
-
-3213265489678978946554651313210
-
-One more time added comments to check new Branch Testing2
-=======
-asdfasdfasdfasdf
-asdfasdf654654654654654654654654654654654654654654
-
-jkjkjhhjghj98789789797987311564hjgjtugyu
-One more time is added modific
-asdfasdfasd
-Updated upstream
-One more time added comments to check new Branch Testing2
-
-
-jhghjgjhghjghj
-Stashed changes
-Testing2
+}
